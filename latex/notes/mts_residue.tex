@@ -1,0 +1,14 @@
+\section{MTS Residue}
+
+Per-channel residue is modeled as a bounded weighted sum:
+
+\[
+R_i = w_n n_i + w_l l_i + w_s s_i + w_k k_i + w_m m_i + w_c c_i
+\]
+
+Usable channel efficiency is then degraded by residue, latency and contradiction:
+
+\[
+\Phi_{eff,i} = k_i b_i q_i e^{-\alpha R_i} e^{-\beta \tau_i} (1 - \gamma C_i)
+\]
+
