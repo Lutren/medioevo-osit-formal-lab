@@ -12,6 +12,20 @@ This repository is not a claim that OSIT proves universal physics, consciousness
 - MTS channel `Phi_eff`
 - channel gates: `APPROVE`, `REVIEW`, `BLOCK`
 
+## Current Public Role
+
+This repo is the public-safe formal-lab lane for OSIT-style metrics. It can support open MIT tooling for schemas, validators, synthetic examples, claim boundaries and falsifier templates. It does not publish the private OSIT/MEDIOEVO canon, Wabi-Sabi internals, proprietary calibration, books, LORE, RPG/TCG material or audiovisual source files.
+
+Use this repository for:
+
+- reproducible toy metrics;
+- tests and negative examples;
+- claim downgrade rules;
+- ActionGate and WitnessLog examples;
+- public-safe documentation for state-aware agent workflows.
+
+Do not use it as evidence that MEDIOEVO has new-physics validation, consciousness resolution, general-intelligence achievement or real-world prediction guarantees.
+
 ## Core Equation
 
 ```text
@@ -78,6 +92,15 @@ Blocked language:
 
 ```text
 Any wording that asserts resolved physics, consciousness, AGI or prediction guarantees.
+```
+
+Physics posture:
+
+```text
+Established physics can be cited as background.
+Engineering analogies must be labeled as analogies.
+OSIT metrics here are formal-lab constructs until independently validated.
+Unsupported strong claims are downgraded or blocked.
 ```
 
 ## Repository Role
